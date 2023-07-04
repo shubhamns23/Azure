@@ -1,0 +1,9 @@
+{
+	"name": "ascsdbadatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2cef8e2b-291c-4ffe-a2d5-d4c8afc6aff7",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
